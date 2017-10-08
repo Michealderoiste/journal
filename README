@@ -1,0 +1,3 @@
+Please install xammpp or equivalent and place this in the htdocs folder after xampp has finished installing.
+You will need to run composer update from the command line from the project root directory to update the vendor files to the latest version.
+If you don't have composer, please install it (you can google, composer install and it will come up as the first option).
